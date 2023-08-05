@@ -15,6 +15,7 @@ class MyApp extends StatelessWidget {
         ),
       ),
       home: const TimerPage(),
+      debugShowCheckedModeBanner: false,
     );
   }
 }
